@@ -1,0 +1,48 @@
+.bg-blue {
+  background-color: #307aab;
+}
+.bg-blue * {
+  color: white;
+}
+.bg-grey {
+  background-color: #eeeff1;
+}
+.bg-white {
+  background-color: white;
+}
+
+section {
+  padding: 3rem 0;
+}
+
+.card-content {
+  max-width: 20rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: normal;
+  margin-bottom: 0.5em;
+}
+
+section > h1,
+section > h2,
+section > h3,
+section > h4 {
+  margin-bottom: 1.5em;
+}
+
+.mg-b-2 {
+  margin-bottom: 2rem;
+}
+
+.light-grey {
+  color: #91908c;
+}
+.grey {
+  color: #564c44;
+}
